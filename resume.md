@@ -32,6 +32,29 @@ Full-stack engineer with production experience building enterprise-scale systems
 - **40% uplift in employee engagement, 25% higher comprehension scores:** Integrated Llama 2 LLM via REST API and prompt tuning to generate context-aware, role-specific responses across PID training cohorts and multi-tenant deployments.
 - **~20% lift in prompt accuracy:** Built A/B testing and user-feedback evaluation pipelines across 3 product teams to measure LLM response relevance, log telemetry, and systematically refine production prompts against golden-set benchmarks.
 
+### Amazon — Mentee, Amazon ML Summer School
+*September 2023 – October 2023 · Remote*
+
+- [FILL IN — Selected for Amazon's invite-only ML Summer School cohort. Note 1–2 topics covered (e.g., supervised learning, deep learning, NLP) and any project / acknowledgment letter you received.]
+
+### TheRightDoctors — Software Development Intern
+*February 2023 – June 2023 · Hyderabad, India · Remote*
+
+- [FILL IN — Headline contribution: what you built / shipped, the stack, and the impact (users / latency / etc.).]
+- [FILL IN — Optional second bullet for a distinct project.]
+
+### LOKAL Entrepreneurs Empowerment — Software Development Intern
+*October 2022 – January 2023 · Delhi, India · Remote*
+
+- [FILL IN — Headline contribution: what you built / shipped, the stack, and the impact.]
+- [FILL IN — Optional second bullet.]
+
+### Kalvium — Web Development Intern
+*June 2022 – August 2022 · Bengaluru, India · Remote*
+
+- [FILL IN — Headline contribution: what you built / shipped, the stack, and the impact.]
+- [FILL IN — Optional second bullet.]
+
 ## Education
 
 ### B.Tech, Computer Science & Engineering — Indian Institute of Information Technology, Kottayam
@@ -41,10 +64,12 @@ Full-stack engineer with production experience building enterprise-scale systems
 - Relevant coursework: Data Structures & Algorithms, Operating Systems, DBMS, Computer Networks, OOP, Software Engineering
 
 ### Senior Secondary (Class XII) — Narayana Junior College, Hyderabad (TSBIE)
-*2020 · 97.8%*
+*2018 – 2020 · 97.8%*
 
 ### Secondary (Class X) — Millennium High School, Warangal (CBSE)
-*2018 · 91%*
+*2013 – 2018 · 91%*
+
+- School Head Boy; Cultural Club member.
 
 ## Projects
 

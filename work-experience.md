@@ -51,6 +51,66 @@ Maximl is a connected-frontline operations platform with multi-tenant deployment
 
 ---
 
+## Amazon — Mentee, Amazon ML Summer School
+*September 2023 – October 2023 · Remote*
+
+### Context
+Amazon's invite-only ML Summer School is a structured program where Amazon scientists deliver coursework on classical and modern ML. I was selected as a mentee for the 2023 cohort.
+
+### What I did
+- [FILL IN — list 1–2 topics covered (supervised learning, deep learning, NLP, RL, etc.)]
+- [FILL IN — any project / capstone work or acknowledgment letter received]
+
+### Why this matters
+[FILL IN — One sentence on why this is on the resume — e.g., signals selectivity, formal ML grounding to complement the production LLM work at Maximl/Shipsy.]
+
+---
+
+## TheRightDoctors — Software Development Intern
+*February 2023 – June 2023 · Hyderabad, India · Remote*
+
+### Context
+[FILL IN — One paragraph: what TheRightDoctors does, who their users are, and which team / problem area you joined.]
+
+### What I built
+- [FILL IN — Headline shipped feature: stack, scope, and impact]
+- [FILL IN — Optional second item]
+
+### Things I learned
+[FILL IN — 1–2 sentences. Optional but useful for behavioral interviews.]
+
+---
+
+## LOKAL Entrepreneurs Empowerment — Software Development Intern
+*October 2022 – January 2023 · Delhi, India · Remote*
+
+### Context
+[FILL IN — One paragraph: what LOKAL does and which team / problem area you joined.]
+
+### What I built
+- [FILL IN — Headline shipped feature: stack, scope, and impact]
+- [FILL IN — Optional second item]
+
+### Things I learned
+[FILL IN — 1–2 sentences.]
+
+---
+
+## Kalvium — Web Development Intern
+*June 2022 – August 2022 · Bengaluru, India · Remote*
+
+### Context
+[FILL IN — One paragraph: what Kalvium does and what team / project you joined.]
+
+### What I built
+- [FILL IN — Headline shipped feature: stack, scope, and impact]
+- [FILL IN — Optional second item]
+
+### Things I learned
+[FILL IN — 1–2 sentences.]
+
+---
+
 ## STAR-format stories (interview-ready)
 
 > Pre-baked behavioral interview answers. Each follows: Situation → Task → Action → Result.
