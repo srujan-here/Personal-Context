@@ -39,4 +39,4 @@ This repo is my single source of truth. The detailed files are:
 - [`preferences.md`](./preferences.md) — writing style, tone, things to avoid
 
 When using with an AI assistant, point it here:
-`https://raw.githubusercontent.com/<your-username>/<repo-name>/main/README.md`
+`https://raw.githubusercontent.com/srujan-here/Personal-Context/main/README.md`
